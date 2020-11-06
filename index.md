@@ -1,2 +1,2 @@
 # Üdvözöljük a Hetényi SE honlapján!
-[Olvass el](readme.md)
+[Olvass el](README.md)
