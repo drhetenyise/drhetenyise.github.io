@@ -4,4 +4,4 @@ markdown: kramdown
 #github:
 #  is_project_page: false
 footer:
-  copyright_text: "&copy; GES"
+  copyright_text: "&#127279; GES"
