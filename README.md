@@ -1,1 +1,0 @@
-<span class=”copy-left”>©</span>
