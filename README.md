@@ -1,2 +1,2 @@
-<span class="copyleft">$copy;</span>GES
-$copy;GES
+<span class="copyleft">&copy;</span>GES
+&copy;GES
