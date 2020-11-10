@@ -1,7 +1,17 @@
 theme: jekyll-theme-architect
 title: Dr. Hetényi SE
-markdown: kramdown
-github:
-  is_project_page: false
+author: $copy;GES
+#avatar: "/assets/img/avatar-icon.png"
+social-network-links:
+  email: "drhetenyise@gmail.com"
+  github: drhetenyise
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+#markdown: kramdown
+#github:
+#  is_project_page: false
 #footer:
 #  copyright_text: "&#127279; GES"
