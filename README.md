@@ -1,1 +1,1 @@
-- [Hóbagoly Sakk Klub adatlap](/Hóbagoly Sakk Klub adatlap.pdf)
+- [Hóbagoly Sakk Klub adatlap](/Hóbagoly Sakk Klub adatlap.pdf){:target="_blank"}
