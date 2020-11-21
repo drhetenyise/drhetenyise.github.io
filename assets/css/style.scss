@@ -3,8 +3,8 @@
 /*@import "jekyll-theme-minima";*/
 .bg_image {
   background-image: url('{{ site.baseurl }}/assets/images/bground.jpg');
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
