@@ -2,12 +2,12 @@
 ---
 @import "jekyll-theme-midnight";
 .bg-image {
-  background-image: url('{{ site.baseurl }}/assets/images/bground.jpg');
+  background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('{{ site.baseurl }}/assets/images/bground.jpg');
 /*
   filter: blur(8px);
   -webkit-filter: blur(8px);
-*/
   opacity: 0.2;
+*/
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
