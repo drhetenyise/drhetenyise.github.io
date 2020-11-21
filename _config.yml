@@ -13,10 +13,11 @@ theme: jekyll-theme-midnight
 #theme: jekyll-theme-tactile
 #theme: jekyll-theme-time-machine
 
+#baseurl: ''
 title: Dr. Hetényi Géza Sakk Egyesület
 author: "GES"
 #background-image: "/189859.jpg"
-background-image: url(’{{ site.baseurl }}/assets/images/bground.jpg’);
+background-image: url('{{ site.baseurl }}/assets/images/bground.jpg');
 #avatar: "/assets/img/avatar-icon.png"
 social-network-links:
   email: "drhetenyise@gmail.com"
