@@ -1,0 +1,17 @@
+---
+---
+/*@import "jekyll-theme-minima";*/
+.bg_image {
+  background-image: url('{{ site.baseurl }}/assets/images/bground.jpg');
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.copyleft {
+  display:inline-block;
+  transform: rotate(180deg);
+}
