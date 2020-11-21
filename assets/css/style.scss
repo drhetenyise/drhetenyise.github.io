@@ -3,8 +3,8 @@
 @import "jekyll-theme-midnight";
 .bg-image {
   background-image: url('{{ site.baseurl }}/assets/images/bground.jpg');
-  filter: blur(1px);
-  -webkit-filter: blur(1px);
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
