@@ -24,12 +24,13 @@
   height: 100%;
   z-index: -1;
   display: block;
+  filter: blur(50%);
+  filter: opacity(20%);
 /*
   filter: blur(50%);
   filter: grayscale(50%);
   filter: brightness(50%);
 */
-  filter: opacity(20%);
 /*
   filter: contrast(50%);
   filter: saturate(50%);
