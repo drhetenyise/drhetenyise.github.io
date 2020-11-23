@@ -1,1 +1,0 @@
-- [Dr. Hetényi Géza Sakk Egyesület adatlap](/Dr. Hetényi Géza Sakk Egyesület adatlap.pdf){:target="_blank"}
